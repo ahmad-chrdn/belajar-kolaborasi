@@ -1,2 +1,4 @@
-# belajar-kolaborasi
-Belajar kolaborasi github
+# Belajar Kolaborasi
+
+Belajar kolaborasi di Github.<br>
+Mendokumentasikan dengan Github menjadi lebih mudah.
